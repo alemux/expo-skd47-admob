@@ -13,3 +13,7 @@ Risoluzione: duplicare il file .gitignore, rinominarlo .easignore rimuovendo il 
 Ovviamente facendo riferimento a Native Modules, l'app di ExpoGo diventa inutilizzabile: procedo con la creazione di build di dev come da istruzioni.
 => npx eas-cli build --profile development
 
+# European User Consent
+=> https://docs.page/invertase/react-native-google-mobile-ads/european-user-consent
+
+
