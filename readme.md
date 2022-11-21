@@ -16,4 +16,12 @@ Ovviamente facendo riferimento a Native Modules, l'app di ExpoGo diventa inutili
 # European User Consent
 => https://docs.page/invertase/react-native-google-mobile-ads/european-user-consent
 
+"react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1692677127908295~4411142766",
+    "ios_app_id": "ca-app-pub-1692677127908295~4411142766",
+    "delay_app_measurement_init": true,
+    "user_tracking_usage_description": "Questo account verrà utilizzato per mostrarti pubblicità più coerenti con i tuoi interessi."
+  }
 
+delay_app_measurement_init permette di inviare immediamente all'app un callback non appena è disponibile: ci serve soprattutto per gli ads in Europa
+user_tracking_usage_description è la descrizione che viene mostrata all'utente quando viene richiesto il consenso per l'utilizzo dei dati

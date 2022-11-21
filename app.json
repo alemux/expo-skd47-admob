@@ -49,6 +49,8 @@
   },
   "react-native-google-mobile-ads": {
     "android_app_id": "ca-app-pub-1692677127908295~4411142766",
-    "ios_app_id": "ca-app-pub-1692677127908295~4411142766"
+    "ios_app_id": "ca-app-pub-1692677127908295~4411142766",
+    "delay_app_measurement_init": true,
+    "user_tracking_usage_description": "Questo account verrà utilizzato per mostrarti pubblicità più coerenti con i tuoi interessi."
   }
 }
